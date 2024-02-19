@@ -1,7 +1,7 @@
 {
   "name": "electrahub",
   "version": "1.0.0",
-  "description": "",
+  "description": "Build the back end for an e-commerce site using Express.js, Sequelize, and MySQL, allowing CRUD operations for categories, products, and tags, and demonstrate functionality through a walkthrough video.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,7 +14,7 @@
     "url": "git@work.https://github.com/DAsh365/ElectraHub"
   },
   "keywords": [],
-  "author": "",
+  "author": "Devan Ash",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
