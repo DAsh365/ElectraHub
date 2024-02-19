@@ -12,7 +12,7 @@ This project is a backend application for an e-commerce website. It uses Node.js
 
 To demonstrate the functionality of the e-commerce back end, please watch the following walkthrough video:
 
-[Watch Demo Video](https://drive.google.com/file/d/12yw2X0GXqPIlM9rLMHM1VKsipOH44qkU/view?usp=sharing)
+[Watch Demo Video](https://drive.google.com/file/d/1y1IQbro8ycaVZN3CYowyhPXxZyI5R6BJ/view?usp=sharing)
 
 ## Usage
 1. Set up your MySQL database and configure the connection settings in the `.env` file.
